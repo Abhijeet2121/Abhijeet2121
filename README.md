@@ -6,4 +6,4 @@
 - 📫 How to reach me: 
           Linkedin - @https://www.linkedin.com/in/kabhi30
           
-          https://github-readme-stats.vercel.app/api?username=Abhijeet2121)](https://github.com/Abhijeet2121/github-readme-stats
+        [![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijeet2121)](https://github.com/anuraghazra/github-readme-stats)
