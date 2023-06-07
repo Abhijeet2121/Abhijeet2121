@@ -1,8 +1,8 @@
 ### Hi there I am Abhijeet Kumbhar 👋
 
 - 🔭 I’m currently working on My portfolio
-- 🌱 I’m currently learning React.Js
-- 💬 Ask me about HTML, CSS & JavaScript
+- 🌱 I’m currently learning PYTHON
+- 💬 Ask me about HTML, CSS & JavaScript, Python
 - 📫 How to reach me: 
           Linkedin - @https://www.linkedin.com/in/kabhi30
           
